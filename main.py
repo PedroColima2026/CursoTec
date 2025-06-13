@@ -2,7 +2,7 @@ import streamlit as st
 from fpdf import FPDF
 
 st.title("Encuesta: Impacto de ChatGPT en la Educación")
-st.markdown ("""Esta aplicación fue desarrollada por: Alida Flores Flores y Pedro García Alcaraz"""")
+st.markdown (´´´Esta aplicación fue desarrollada por: Alida Flores Flores y Pedro García Alcaraz´´´)
 st.write("Responde las siguientes afirmaciones usando la escala de Likert.")
 
 # Opciones de la escala Likert
